@@ -1,4 +1,4 @@
-Live demo [here](https://jumpjack.github.io/akihabara).
+Live demo [here](https://jumpjack.github.io/akihabara/test/runner.html).
 
 
 Akihabara
